@@ -1,0 +1,9 @@
+server:
+  hostname: "localhost"
+  port: 8080
+database:
+  hostname: "localhost"
+  port: 3306
+  username: user
+  password: password
+  name: sample-rest-api
